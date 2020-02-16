@@ -2,9 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://www.5ikeke.xyz/about/index.html</loc>
+    
+    <lastmod>2020-02-16T07:23:43.603Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://www.5ikeke.xyz/2020/02/14/a_2/</loc>
     
-    <lastmod>2020-02-16T06:42:37.135Z</lastmod>
+    <lastmod>2020-02-16T07:03:41.043Z</lastmod>
     
   </url>
   
@@ -12,13 +19,6 @@
     <loc>https://www.5ikeke.xyz/2020/02/15/a_1/</loc>
     
     <lastmod>2020-02-16T04:00:55.403Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://www.5ikeke.xyz/about/index.html</loc>
-    
-    <lastmod>2020-02-15T14:48:46.149Z</lastmod>
     
   </url>
   
